@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there I am Sumit Shaw deep diving into world of code 👋
+I'm currently working on languages c,python
 <!--
 **Sumit2006-02/Sumit2006-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
